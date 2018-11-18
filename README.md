@@ -6,7 +6,7 @@ Artificial intelligence problems:
 - NQueens problem
 - Boids flock
 - Life - mutation algorithm
-- Pathfinding - Find the shortest path from goal to start using:
+- Pathfinding - Find the shortest path from goal to start using: Greedy, A* algorithms
 
 Wayne in the rain - Scripts for 2D scroll game created using Unity engine (C#)
 
